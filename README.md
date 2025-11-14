@@ -1,3 +1,10 @@
+# Hi 👋, I'm Mayur Thakor  
+### MERN Stack Developer | BTech CSE Student | Passionate About Web Development
+
+🚀 I love building full-stack applications using MERN stack.  
+🎯 Currently learning advanced React, Redux, and backend with Node.js + Express.  
+🌱 Improving my Data Structures & Algorithms and communication skills daily.  
+💼 My goal is to get an internship and become a full-time software engineer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayurthakor4002) 
